@@ -1,11 +1,10 @@
 .pattern{
    background-image:url(img/pattern.png) ;
    background-color: rgb(97, 97, 241);
-
+   background-size: contain;
 }
 
-#pattern1 {
-    height: 200px;
+#pattern1 {    
     width: 200px;
 }
 
@@ -31,11 +30,3 @@ h4{
     color: grey;
 }
 
-.container {
-    position: relative;
-    text-align: center;
-}
-
-.final bg {
-    position: absolute;
-}
