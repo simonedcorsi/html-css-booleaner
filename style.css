@@ -30,12 +30,12 @@ table {
 h4{
     color: grey;
 }
-.final bg {
-    background-image: url(img/monitor.jpg);
+
+.container {
     position: relative;
+    text-align: center;
 }
 
-.final bg2 {
-    background-image: url(img/graph.jpg);
+.final bg {
     position: absolute;
 }
