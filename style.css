@@ -23,6 +23,19 @@ table {
     background-color: #4EA0FF;
 }
 
-footer {
-    display: inline-block;
+.color2 {
+    background-color:#B1E5F2 ;
+}
+
+h4{
+    color: grey;
+}
+.final bg {
+    background-image: url(img/monitor.jpg);
+    position: relative;
+}
+
+.final bg2 {
+    background-image: url(img/graph.jpg);
+    position: absolute;
 }
