@@ -1,26 +1,28 @@
-.pattern{
+.logo{
    background-image:url(img/pattern.png) ;
    background-color: rgb(97, 97, 241);
    background-size: contain;
+
 }
 
-#pattern1 {    
+#logo1 {    
     width: 300px;
 }
 span {
     color: blue;
 }
-th td {
-    width: 100%;
+th td tr {
+    
     text-align: center;
+    
     
 }
 
 table {
-    
-    border-collapse: collapse;
-    margin-top: 20px;
-    text-align: center;
+    height: 150px;
+    width: 500px;
+    margin: 0 auto;
+
 }
 
 .color1 {
@@ -34,5 +36,10 @@ table {
 
 h4{
     color: grey;
+}
+
+#textimg {
+    background:url(img/monitor.jpg) ;
+    
 }
 
