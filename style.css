@@ -38,10 +38,18 @@ h4{
     color: grey;
 }
 
-#textimg {
+#textimg1 {
     background:url(img/monitor.jpg) ;
     width: 200px;
     height: 200px;
     
 }
+
+#textimg2 {
+    background: url(img/graph.jpg);
+    width: 200px;
+    height: 200px;
+    
+}
+
 
