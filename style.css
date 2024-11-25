@@ -18,6 +18,9 @@ table {
     margin-right: auto;
 }
 
+.color1 {
+    color: blue;
+}
 
 footer {
     display: inline-block;
