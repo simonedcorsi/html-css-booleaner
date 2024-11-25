@@ -39,6 +39,7 @@ h4{
 }
 
 #textimg1 {
+    color: white;
     background:url(img/monitor.jpg) ;
     width: 200px;
     height: 200px;
@@ -46,6 +47,7 @@ h4{
 }
 
 #textimg2 {
+    color: white;
     background: url(img/graph.jpg);
     width: 200px;
     height: 200px;
