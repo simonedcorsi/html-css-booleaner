@@ -10,15 +10,17 @@
 span {
     color: blue;
 }
-th tr td {
-    width: 50px;
+th td {
+    width: 100%;
+    text-align: center;
     
 }
 
 table {
+    
     border-collapse: collapse;
     margin-top: 20px;
-    width: 20 px;
+    text-align: center;
 }
 
 .color1 {
