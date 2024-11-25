@@ -1,0 +1,10 @@
+.pattern{
+   background-image:url(img/pattern.png) ;
+   background-color: rgb(97, 97, 241);
+
+}
+
+#pattern1 {
+    height: 200px;
+    width: 200px;
+}
